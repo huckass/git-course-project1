@@ -6,4 +6,4 @@ function init(){
 
 init();
 
-console.log('Hello');
+console.log('Welcome to my website!');
