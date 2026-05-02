@@ -5,3 +5,5 @@ function init(){
 }
 
 init();
+
+console.log('Hello');
