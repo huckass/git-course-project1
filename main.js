@@ -7,3 +7,4 @@ function init(){
 init();
 
 console.log('Welcome to my website!');
+console.log('This is a simple JavaScript file!');
